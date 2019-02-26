@@ -1,0 +1,9 @@
+body{
+  background-color: #3e99d7;
+}
+#Ikona
+{
+  list-style-image: url(../img/polska.iko.png);
+  margin-left: 100px;
+
+}
